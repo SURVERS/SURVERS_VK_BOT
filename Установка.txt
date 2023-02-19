@@ -1,0 +1,4 @@
+pip install vk_api
+pip install python_rucaptcha
+pip install requests
+pip install re
